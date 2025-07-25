@@ -16,9 +16,3 @@ ProjectGPT is a dynamic AI-powered platform that auto-generates hands-on tech pr
   - UI Mockup
 
 ---
-
-## 📦 How to Run Locally
-1. Clone the repo:
-```bash
-git clone https://github.com/YOUR_USERNAME/ProjectGPT.git
-cd ProjectGPT
