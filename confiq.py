@@ -1,0 +1,1 @@
+# Central place for file paths, project templates, and generation rules. Makes scaling easier.
